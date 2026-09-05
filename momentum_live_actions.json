@@ -1,10 +1,13 @@
 {
-  "decision_date": "2026-09-04",
-  "generated_at": "2026-09-04T23:00:00.732418-04:00",
-  "engine": "momentum-live Leg 1 \u2014 TEST PUSH (connectivity check, no decision, no orders)",
+  "status": "NO_MARKET_DAY",
+  "decision_date": "2026-09-07",
+  "generated_at": "2026-09-04T23:44:43.510717-04:00",
+  "engine": "momentum-live Leg 1 (decision only \u2014 NO orders placed here)",
   "size_usd": 10.0,
   "cap_usd": 50.0,
+  "latest_settled_close": "2026-09-04",
+  "reconcile_status": "SKIPPED_NO_MARKET_DAY",
   "actions": [],
   "skipped": [],
-  "note": "GitHub transport connectivity test. Leg 2 does not exist yet; zero orders placed."
+  "note": "Not a real trading day (market closed \u2014 holiday/weekend). No signal computation, no reconciliation performed. Leg 2: take NO action."
 }
