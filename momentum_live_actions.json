@@ -1,0 +1,10 @@
+{
+  "decision_date": "2026-09-04",
+  "generated_at": "2026-09-04T22:59:57.418379-04:00",
+  "engine": "momentum-live Leg 1 \u2014 TEST PUSH (connectivity check, no decision, no orders)",
+  "size_usd": 10.0,
+  "cap_usd": 50.0,
+  "actions": [],
+  "skipped": [],
+  "note": "GitHub transport connectivity test. Leg 2 does not exist yet; zero orders placed."
+}
