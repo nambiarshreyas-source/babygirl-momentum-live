@@ -12,5 +12,6 @@
   "reconcile_status": "NO_RESULTS_FILE",
   "actions": [],
   "skipped": [],
-  "note": "Leg 2: cap check must sum ONLY the account positions whose ticker is in open_tickers (momentum-live's own book) \u2014 NOT total account equity (excludes unrelated strategies). Verify each open_tickers position exists at the expected quantity; flag discrepancies. SELL quantity is the exact real filled qty from the ledger."
+  "note": "Leg 2: cap check must sum ONLY the account positions whose ticker is in open_tickers (momentum-live's own book) \u2014 NOT total account equity (excludes unrelated strategies). Verify each open_tickers position exists at the expected quantity; flag discrepancies. SELL quantity is the exact real filled qty from the ledger.  [republished 2026-09-09T21:22:16 ET via Leg 1 publish() to verify GitHub transport and invalidate any downstream cache; decision itself unchanged from the 17:00 run.]",
+  "republished_at": "2026-09-09T21:22:16.677032-04:00"
 }
